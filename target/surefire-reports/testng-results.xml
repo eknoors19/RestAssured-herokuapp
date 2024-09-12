@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T20:37:57 IST" name="Suite" finished-at="2024-06-24T20:38:35 IST" duration-ms="37794">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T20:37:57 IST" name="Test" finished-at="2024-06-24T20:38:35 IST" duration-ms="37794">
+      <class name="com.testautomation.apitesting.tests.GetApiRequest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.GetApiRequest@64dafeed]" started-at="2024-06-24T20:38:05 IST" name="beforeMethod" finished-at="2024-06-24T20:38:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getAllBookingIds()[pri:0, instance:com.testautomation.apitesting.tests.GetApiRequest@64dafeed]" started-at="2024-06-24T20:38:05 IST" name="getAllBookingIds" finished-at="2024-06-24T20:38:08 IST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBookingIds -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.GetApiRequest@64dafeed]" started-at="2024-06-24T20:38:08 IST" name="beforeMethod" finished-at="2024-06-24T20:38:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getAllBookings()[pri:0, instance:com.testautomation.apitesting.tests.GetApiRequest@64dafeed]" started-at="2024-06-24T20:38:08 IST" name="getAllBookings" finished-at="2024-06-24T20:38:11 IST" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBookings -->
+      </class> <!-- com.testautomation.apitesting.tests.GetApiRequest -->
+      <class name="com.testautomation.apitesting.tests.PutAPIRequest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.PutAPIRequest@388ba540]" started-at="2024-06-24T20:38:11 IST" name="beforeMethod" finished-at="2024-06-24T20:38:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="putAPIRequest()[pri:0, instance:com.testautomation.apitesting.tests.PutAPIRequest@388ba540]" started-at="2024-06-24T20:38:11 IST" name="putAPIRequest" finished-at="2024-06-24T20:38:20 IST" duration-ms="8464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putAPIRequest -->
+      </class> <!-- com.testautomation.apitesting.tests.PutAPIRequest -->
+      <class name="com.testautomation.apitesting.tests.DeleteAPITest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.DeleteAPITest@2ece4966]" started-at="2024-06-24T20:38:28 IST" name="beforeMethod" finished-at="2024-06-24T20:38:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="deleteAPIRequest()[pri:0, instance:com.testautomation.apitesting.tests.DeleteAPITest@2ece4966]" started-at="2024-06-24T20:38:28 IST" name="deleteAPIRequest" finished-at="2024-06-24T20:38:35 IST" duration-ms="7253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAPIRequest -->
+      </class> <!-- com.testautomation.apitesting.tests.DeleteAPITest -->
+      <class name="com.testautomation.apitesting.tests.PatchAPIRequest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.PatchAPIRequest@47605f2f]" started-at="2024-06-24T20:38:20 IST" name="beforeMethod" finished-at="2024-06-24T20:38:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="patchAPIRequest()[pri:0, instance:com.testautomation.apitesting.tests.PatchAPIRequest@47605f2f]" started-at="2024-06-24T20:38:20 IST" name="patchAPIRequest" finished-at="2024-06-24T20:38:28 IST" duration-ms="8205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchAPIRequest -->
+      </class> <!-- com.testautomation.apitesting.tests.PatchAPIRequest -->
+      <class name="com.testautomation.apitesting.tests.PostApiRequest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.PostApiRequest@1080b026]" started-at="2024-06-24T20:37:58 IST" name="beforeMethod" finished-at="2024-06-24T20:37:58 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createBooking()[pri:0, instance:com.testautomation.apitesting.tests.PostApiRequest@1080b026]" started-at="2024-06-24T20:37:58 IST" name="createBooking" finished-at="2024-06-24T20:38:05 IST" duration-ms="6566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+      </class> <!-- com.testautomation.apitesting.tests.PostApiRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

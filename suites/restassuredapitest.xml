@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	  <listener class-name="Reporting.Listeners"></listener>
+  	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testautomation.apitesting.tests.PostApiRequest"/>
+      <class name="com.testautomation.apitesting.tests.GetApiRequest"/>
+      <class name="com.testautomation.apitesting.tests.PutAPIRequest"/>
+      <class name="com.testautomation.apitesting.tests.PatchAPIRequest"/>
+      <class name="com.testautomation.apitesting.tests.DeleteAPITest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

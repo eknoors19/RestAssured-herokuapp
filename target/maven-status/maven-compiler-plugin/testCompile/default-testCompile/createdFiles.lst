@@ -1,0 +1,9 @@
+com\testautomation\apitesting\pojos\Booking.class
+com\testautomation\apitesting\utils\FileNameConstants.class
+com\testautomation\apitesting\tests\PostApiRequest.class
+com\testautomation\apitesting\tests\PutAPIRequest.class
+com\testautomation\apitesting\pojos\BookingDates.class
+com\testautomation\apitesting\utils\BaseTest.class
+com\testautomation\apitesting\tests\PatchAPIRequest.class
+com\testautomation\apitesting\tests\GetApiRequest.class
+com\testautomation\apitesting\tests\PostApiRequestUsingFile.class

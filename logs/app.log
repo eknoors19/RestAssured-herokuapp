@@ -1,0 +1,473 @@
+2024-06-24T19:05:03,977 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse--370694909\testng-customsuite.xml"
+2024-06-24T19:05:04,355 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T19:05:04,361 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-06-24T19:05:04,363 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,363 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,363 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,363 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,403 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,403 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,405 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,406 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,406 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,407 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,408 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,409 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,410 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,410 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,432 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2024-06-24T19:05:04,446 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2024-06-24T19:05:04,450 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,451 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,454 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,455 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,456 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,457 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,461 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,463 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-06-24T19:05:04,466 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,466 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,466 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:05:04,467 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:05:04,481 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse--370694909\testng-customsuite.xml
+
+2024-06-24T19:05:04,516 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-06-24T19:05:08,048 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1b3ab4f9
+2024-06-24T19:05:08,113 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T19:05:08,123 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T19:05:09,379 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@1b3ab4f9
+2024-06-24T19:05:09,380 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T19:05:09,380 [main] INFO  DeleteAPITest - Auth Token: 969a65b0da9c7ca
+2024-06-24T19:05:10,625 [main] INFO  DeleteAPITest - Deleted Booking 969a65b0da9c7ca
+2024-06-24T19:05:10,740 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@696b52bc: 46 ms
+2024-06-24T19:05:10,843 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@13250132: 102 ms
+2024-06-24T19:05:10,843 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@40d848f9: 0 ms
+2024-06-24T19:05:10,889 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a84788f: 44 ms
+2024-06-24T19:05:10,902 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@38e83838: 12 ms
+2024-06-24T19:05:10,912 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@590d6c76: 10 ms
+2024-06-24T19:05:10,913 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@25791d40: 0 ms
+2024-06-24T19:30:09,816 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T19:30:10,093 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml
+
+2024-06-24T19:30:58,313 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T19:30:58,599 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml
+
+2024-06-24T19:31:02,683 [main] INFO  PostApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@6f07d414
+2024-06-24T19:31:06,431 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@274bae2c
+2024-06-24T19:31:07,719 [main] INFO  PutAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@5c573229
+2024-06-24T19:31:07,737 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T19:31:07,740 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T19:31:10,167 [main] INFO  PutAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@5c573229
+2024-06-24T19:31:10,168 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T19:31:10,168 [main] INFO  PutAPIRequest - Auth Token: a9945e95de0d665
+2024-06-24T19:31:11,457 [main] INFO  PutAPIRequest - Update Booking: io.restassured.internal.RestAssuredResponseImpl@5c573229
+2024-06-24T19:31:12,707 [main] INFO  PatchAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@6f7a20da
+2024-06-24T19:31:12,708 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T19:31:12,708 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T19:31:13,979 [main] INFO  PatchAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@6f7a20da
+2024-06-24T19:31:13,979 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T19:31:13,979 [main] INFO  PatchAPIRequest - Auth Token: b273c6840456048
+2024-06-24T19:31:15,199 [main] INFO  PatchAPIRequest - Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@6f7a20da
+2024-06-24T19:31:16,412 [main] INFO  PatchAPIRequest - Partial Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@6f7a20da
+2024-06-24T19:31:17,672 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1dbff71c
+2024-06-24T19:31:17,673 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T19:31:17,673 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T19:31:18,955 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@1dbff71c
+2024-06-24T19:31:18,956 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T19:31:18,956 [main] INFO  DeleteAPITest - Auth Token: 43222c72b1301d9
+2024-06-24T19:31:20,239 [main] INFO  DeleteAPITest - Deleted Booking 43222c72b1301d9
+2024-06-24T19:37:43,401 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse--1113455688\testng-customsuite.xml"
+2024-06-24T19:37:43,637 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T19:37:43,640 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,641 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,641 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,642 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,643 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,643 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,643 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,644 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,644 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,644 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,644 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,644 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,645 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,645 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,645 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,654 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-06-24T19:37:43,665 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-06-24T19:37:43,666 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,666 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,667 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,668 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,668 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,668 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,671 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T19:37:43,672 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,673 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,673 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,673 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:37:43,673 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:37:43,683 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse--1113455688\testng-customsuite.xml
+
+2024-06-24T19:37:43,702 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-06-24T19:37:46,943 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@5382184b
+2024-06-24T19:37:47,051 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@65c5bf0e: 46 ms
+2024-06-24T19:37:47,118 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@50085d9c: 66 ms
+2024-06-24T19:37:47,119 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5df7e31b: 0 ms
+2024-06-24T19:37:47,137 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@51d0ec6f: 17 ms
+2024-06-24T19:37:47,146 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36c7cbe1: 8 ms
+2024-06-24T19:37:47,153 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@42e4e589: 7 ms
+2024-06-24T19:37:47,153 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@499ee966: 0 ms
+2024-06-24T19:38:45,616 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse-634381945\testng-customsuite.xml"
+2024-06-24T19:38:45,858 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,861 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-24T19:38:45,863 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,863 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,863 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,864 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,865 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,865 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,865 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,866 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,866 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,879 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-24T19:38:45,886 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-06-24T19:38:45,887 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,887 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,889 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,889 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,889 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,889 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,894 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-24T19:38:45,894 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T19:38:45,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T19:38:45,903 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse-634381945\testng-customsuite.xml
+
+2024-06-24T19:38:45,924 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-06-24T19:38:49,298 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@46fc522d
+2024-06-24T19:38:49,466 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@f2b90fc: 57 ms
+2024-06-24T19:38:49,542 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1a1ccaaf: 76 ms
+2024-06-24T19:38:49,543 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7b53b1ad: 1 ms
+2024-06-24T19:38:49,554 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4792f119: 9 ms
+2024-06-24T19:38:49,565 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72b0a004: 11 ms
+2024-06-24T19:38:49,574 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1d6751e3: 9 ms
+2024-06-24T19:38:49,574 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2d258eff: 0 ms
+2024-06-24T20:16:00,289 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse--1270185884\testng-customsuite.xml"
+2024-06-24T20:16:00,786 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T20:16:00,794 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-06-24T20:16:00,797 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,798 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,801 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,801 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,802 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,802 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,804 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,805 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,806 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,806 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,823 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-06-24T20:16:00,841 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-06-24T20:16:00,843 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,843 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,846 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,846 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,847 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,847 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,851 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-24T20:16:00,852 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-24T20:16:00,855 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,855 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,855 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:16:00,855 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:16:00,869 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse--1270185884\testng-customsuite.xml
+
+2024-06-24T20:16:00,905 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-06-24T20:16:04,489 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1c8f6c66
+2024-06-24T20:16:04,553 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:16:04,568 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:16:05,891 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@68af87ad
+2024-06-24T20:16:06,051 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6ffd4c0d: 54 ms
+2024-06-24T20:16:06,159 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@51ff3c4b: 108 ms
+2024-06-24T20:16:06,192 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5b2b8d86: 33 ms
+2024-06-24T20:16:06,225 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@339f3a55: 33 ms
+2024-06-24T20:16:06,250 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58687fb7: 14 ms
+2024-06-24T20:16:06,263 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@29962b2f: 12 ms
+2024-06-24T20:16:06,265 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@491f8831: 0 ms
+2024-06-24T20:17:10,429 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse-537888760\testng-customsuite.xml"
+2024-06-24T20:17:10,786 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,791 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-24T20:17:10,792 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,793 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,794 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,794 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,795 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,795 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,796 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,796 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,797 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,798 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,798 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,798 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,799 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,816 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-06-24T20:17:10,827 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-06-24T20:17:10,829 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,829 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,833 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T20:17:10,835 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,835 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,836 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,843 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-06-24T20:17:10,844 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-24T20:17:10,848 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,849 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,849 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:17:10,849 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:17:10,861 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse-537888760\testng-customsuite.xml
+
+2024-06-24T20:17:10,900 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2024-06-24T20:17:14,583 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1c8f6c66
+2024-06-24T20:17:14,648 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:17:14,660 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:17:15,992 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@68af87ad
+2024-06-24T20:17:16,142 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@44598ef7: 85 ms
+2024-06-24T20:17:16,273 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@a90e2c1: 130 ms
+2024-06-24T20:17:16,275 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@89caf47: 0 ms
+2024-06-24T20:17:16,295 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@805e72e: 20 ms
+2024-06-24T20:17:16,307 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@57bd6a8f: 12 ms
+2024-06-24T20:17:16,317 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31a136a6: 8 ms
+2024-06-24T20:17:16,318 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@30a9e3db: 0 ms
+2024-06-24T20:18:18,528 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse-720888030\testng-customsuite.xml"
+2024-06-24T20:18:18,907 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T20:18:18,916 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-06-24T20:18:18,920 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,920 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,921 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,921 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,921 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,921 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,922 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,922 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,923 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,923 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,924 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,925 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,926 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,926 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,942 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-24T20:18:18,956 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-06-24T20:18:18,958 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T20:18:18,958 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,959 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,959 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,961 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,961 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,968 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-06-24T20:18:18,969 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-24T20:18:18,971 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,971 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,972 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:18,972 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:18,988 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse-720888030\testng-customsuite.xml
+
+2024-06-24T20:18:19,029 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2024-06-24T20:18:23,139 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1c8f6c66
+2024-06-24T20:18:23,201 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:18:23,213 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:18:24,473 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@68af87ad
+2024-06-24T20:18:24,592 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3830f918: 46 ms
+2024-06-24T20:18:24,689 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@47df5041: 96 ms
+2024-06-24T20:18:24,691 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a0ea492: 1 ms
+2024-06-24T20:18:24,745 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4026461d: 54 ms
+2024-06-24T20:18:24,758 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4f081b5d: 13 ms
+2024-06-24T20:18:24,768 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f395ce1: 9 ms
+2024-06-24T20:18:24,769 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@19f02280: 0 ms
+2024-06-24T20:18:56,479 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\EKNOOR~1\AppData\Local\Temp\testng-eclipse-1745150898\testng-customsuite.xml"
+2024-06-24T20:18:56,885 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-24T20:18:56,891 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-06-24T20:18:56,895 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,895 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,896 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,897 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,897 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,898 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,898 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,899 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,900 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,901 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,901 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,901 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,901 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,917 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-06-24T20:18:56,932 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-06-24T20:18:56,935 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,935 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,938 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,938 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,939 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,939 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,945 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-24T20:18:56,946 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,948 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,948 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,948 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-24T20:18:56,949 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-24T20:18:56,960 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\AppData\Local\Temp\testng-eclipse-1745150898\testng-customsuite.xml
+
+2024-06-24T20:18:56,992 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-06-24T20:19:01,157 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1c8f6c66
+2024-06-24T20:19:01,208 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:19:01,216 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:19:02,847 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@68af87ad
+2024-06-24T20:19:03,016 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3830f918: 72 ms
+2024-06-24T20:19:03,186 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@47df5041: 169 ms
+2024-06-24T20:19:03,188 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a0ea492: 2 ms
+2024-06-24T20:19:03,216 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4026461d: 26 ms
+2024-06-24T20:19:03,235 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4f081b5d: 19 ms
+2024-06-24T20:19:03,253 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f395ce1: 18 ms
+2024-06-24T20:19:03,255 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@19f02280: 0 ms
+2024-06-24T20:29:41,086 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T20:29:41,747 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml
+
+2024-06-24T20:29:46,598 [main] INFO  PostApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@223967ea
+2024-06-24T20:29:49,523 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@22ca1242
+2024-06-24T20:29:51,057 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@4b508371
+2024-06-24T20:29:51,085 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:29:51,091 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:29:52,363 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@60f662bd
+2024-06-24T20:29:53,678 [main] INFO  PutAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@3d88ce0e
+2024-06-24T20:29:53,679 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:29:53,679 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:29:57,510 [main] INFO  PutAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@3d88ce0e
+2024-06-24T20:29:57,511 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:29:57,511 [main] INFO  PutAPIRequest - Auth Token: 48e0477ed2d7206
+2024-06-24T20:29:58,786 [main] INFO  PutAPIRequest - Update Booking: io.restassured.internal.RestAssuredResponseImpl@3d88ce0e
+2024-06-24T20:30:00,210 [main] INFO  PatchAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1805ec96
+2024-06-24T20:30:00,212 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:30:00,212 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:30:04,870 [main] INFO  PatchAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@1805ec96
+2024-06-24T20:30:04,871 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:30:04,871 [main] INFO  PatchAPIRequest - Auth Token: 25cb72aca9a3331
+2024-06-24T20:30:06,117 [main] INFO  PatchAPIRequest - Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@1805ec96
+2024-06-24T20:30:07,509 [main] INFO  PatchAPIRequest - Partial Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@1805ec96
+2024-06-24T20:30:08,711 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@4ffe3d42
+2024-06-24T20:30:08,712 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:30:08,712 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:30:10,054 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@4ffe3d42
+2024-06-24T20:30:10,055 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:30:10,055 [main] INFO  DeleteAPITest - Auth Token: 828c6479cd1f0cb
+2024-06-24T20:30:14,074 [main] INFO  DeleteAPITest - Deleted Booking 828c6479cd1f0cb
+2024-06-24T20:32:18,176 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T20:32:18,629 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml
+
+2024-06-24T20:32:22,974 [main] INFO  PostApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@4a6a6a69
+2024-06-24T20:32:28,451 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@15d88c10
+2024-06-24T20:32:33,884 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@50df37eb
+2024-06-24T20:32:33,912 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:32:33,918 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:32:36,202 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@47fa3671
+2024-06-24T20:32:37,431 [main] INFO  PutAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@ff1f465
+2024-06-24T20:32:37,432 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:32:37,433 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:32:39,973 [main] INFO  PutAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@ff1f465
+2024-06-24T20:32:39,974 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:32:39,975 [main] INFO  PutAPIRequest - Auth Token: 008aae4814ca796
+2024-06-24T20:32:41,267 [main] INFO  PutAPIRequest - Update Booking: io.restassured.internal.RestAssuredResponseImpl@ff1f465
+2024-06-24T20:32:42,591 [main] INFO  PatchAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@5a90fcaa
+2024-06-24T20:32:42,591 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:32:42,592 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:32:43,889 [main] INFO  PatchAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@5a90fcaa
+2024-06-24T20:32:43,890 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:32:43,890 [main] INFO  PatchAPIRequest - Auth Token: 5e07428ca0d5319
+2024-06-24T20:32:45,133 [main] INFO  PatchAPIRequest - Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@5a90fcaa
+2024-06-24T20:32:46,470 [main] INFO  PatchAPIRequest - Partial Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@5a90fcaa
+2024-06-24T20:32:47,820 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@460eb276
+2024-06-24T20:32:47,821 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:32:47,821 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:32:49,130 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@460eb276
+2024-06-24T20:32:49,131 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:32:49,131 [main] INFO  DeleteAPITest - Auth Token: 12a1854e7d4125a
+2024-06-24T20:32:51,446 [main] INFO  DeleteAPITest - Deleted Booking 12a1854e7d4125a
+2024-06-24T20:34:17,187 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T20:34:23,110 [main] INFO  PostApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1a717d79
+2024-06-24T20:34:26,225 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@3356ff58
+2024-06-24T20:34:27,727 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@50ff7063
+2024-06-24T20:34:27,753 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:34:27,761 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:34:29,269 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@21b744ec
+2024-06-24T20:34:31,072 [main] INFO  PutAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@60816371
+2024-06-24T20:34:31,072 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:34:31,073 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:34:35,439 [main] INFO  PutAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@60816371
+2024-06-24T20:34:35,439 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:34:35,439 [main] INFO  PutAPIRequest - Auth Token: f6fc9abd57ca3b7
+2024-06-24T20:34:41,607 [main] INFO  PutAPIRequest - Update Booking: io.restassured.internal.RestAssuredResponseImpl@60816371
+2024-06-24T20:34:42,856 [main] INFO  PatchAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@72f3f14c
+2024-06-24T20:34:42,857 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:34:42,857 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:34:44,088 [main] INFO  PatchAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@72f3f14c
+2024-06-24T20:34:44,088 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:34:44,088 [main] INFO  PatchAPIRequest - Auth Token: a4eb7e24c6b36a6
+2024-06-24T20:34:45,416 [main] INFO  PatchAPIRequest - Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@72f3f14c
+2024-06-24T20:34:47,657 [main] INFO  PatchAPIRequest - Partial Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@72f3f14c
+2024-06-24T20:34:48,970 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@7d977a20
+2024-06-24T20:34:48,970 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:34:48,971 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:34:50,455 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@7d977a20
+2024-06-24T20:34:50,456 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:34:50,457 [main] INFO  DeleteAPITest - Auth Token: 4bb0cb1d35513a8
+2024-06-24T20:34:51,832 [main] INFO  DeleteAPITest - Deleted Booking 4bb0cb1d35513a8
+2024-06-24T20:37:57,289 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\eknoorsingh\eclipse-workspace\RestAssuredAssignment\suites\restassuredapitest.xml"
+2024-06-24T20:38:03,815 [main] INFO  PostApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@1412682c
+2024-06-24T20:38:08,123 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@98637a2
+2024-06-24T20:38:09,588 [main] INFO  GetApiRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@e972ee1
+2024-06-24T20:38:09,617 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:38:09,623 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:38:11,721 [main] INFO  GetApiRequest - Get Booking Response: io.restassured.internal.RestAssuredResponseImpl@2e3cd732
+2024-06-24T20:38:14,081 [main] INFO  PutAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@210a26b
+2024-06-24T20:38:14,081 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:38:14,083 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:38:18,829 [main] INFO  PutAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@210a26b
+2024-06-24T20:38:18,830 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:38:18,830 [main] INFO  PutAPIRequest - Auth Token: 0232bcddcf8966b
+2024-06-24T20:38:20,190 [main] INFO  PutAPIRequest - Update Booking: io.restassured.internal.RestAssuredResponseImpl@210a26b
+2024-06-24T20:38:24,268 [main] INFO  PatchAPIRequest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@536da29c
+2024-06-24T20:38:24,269 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:38:24,270 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:38:25,779 [main] INFO  PatchAPIRequest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@536da29c
+2024-06-24T20:38:25,780 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:38:25,780 [main] INFO  PatchAPIRequest - Auth Token: 1f563f63107972c
+2024-06-24T20:38:27,074 [main] INFO  PatchAPIRequest - Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@536da29c
+2024-06-24T20:38:28,397 [main] INFO  PatchAPIRequest - Partial Update Booking Response: io.restassured.internal.RestAssuredResponseImpl@536da29c
+2024-06-24T20:38:32,344 [main] INFO  DeleteAPITest - Create Booking Response: io.restassured.internal.RestAssuredResponseImpl@629cbb1
+2024-06-24T20:38:32,345 [main] DEBUG CompiledPath - Evaluating path: $['booking']..['firstname']
+2024-06-24T20:38:32,345 [main] DEBUG CompiledPath - Evaluating path: $['bookingid']
+2024-06-24T20:38:34,264 [main] INFO  DeleteAPITest - Create Token Response: io.restassured.internal.RestAssuredResponseImpl@629cbb1
+2024-06-24T20:38:34,265 [main] DEBUG CompiledPath - Evaluating path: $['token']
+2024-06-24T20:38:34,266 [main] INFO  DeleteAPITest - Auth Token: c6738b9ace4ae41
+2024-06-24T20:38:35,653 [main] INFO  DeleteAPITest - Deleted Booking c6738b9ace4ae41
